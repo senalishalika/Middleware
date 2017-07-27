@@ -1,0 +1,13 @@
+1.Open a new windows of CMD console, type in the following command to start the ORB
+start orbd -ORBInitialPort 1050
+2.Run server
+3.Run client
+4.Run client2
+
+Group Members:
+
+G.K.T.M.Lakmal- 14000725
+M.A.S.Shalika-14001357
+N.S.Senewirathne-14001322
+M.Udagedara-14001462
+

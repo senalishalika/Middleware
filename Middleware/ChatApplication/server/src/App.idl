@@ -1,0 +1,12 @@
+module App
+{
+  interface Addition
+  {
+    long add(in long a,in long b);
+    string client1(in string a);
+    string client2(in string b);
+    string client1Data();
+    string client2Data();
+    oneway void shutdown();
+    };
+};
